@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextInventory
+  tiid="hmt"
+  tiversion="5.0.rc.1"
+  xmlns="http://chs.harvard.edu/xmlns/cts"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  
+  <ctsnamespace
+    abbr="latinLit"
+    ns="http://www.stoa.org/ctsns/latinLit">
+    <description
+      xml:lang="eng">Stoa Latin lit. namespace.</description>
+  </ctsnamespace>
+  
+  
+  
+  <textgroup
+    urn="urn:cts:latinLit:stoa0069:">
+    <groupname
+      xml:lang="eng">Works of Julius Caesar</groupname>
+    <work
+      urn="urn:cts:latinLit:stoa0069.stoa001:"
+      xml:lang="lat">
+      <title
+        xml:lang="lat">Bellum Gallicum</title>
+      <edition
+        urn="urn:cts:latinLit:stoa0069.stoa001.hc:">
+        <label
+          xml:lang="eng">Holy Cross edition</label>
+        <description
+          
+          xml:lang="eng">Citable, digital edition derived from the Latin Library web site</description>
+        <online/>
+      </edition>
+    </work>
+  </textgroup>
+  
+</TextInventory>

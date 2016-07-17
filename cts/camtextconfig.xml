@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<CitationConfiguration xmlns="http://chs.harvard.edu/xmlns/hocuspocus">
+
+    <online urn="urn:cts:latinLit:stoa0069.stoa001:" type="82XF" docname="caesar_bg_82xf.csv">
+        <citationScheme>
+            <citation label="book">
+                <citation label="chapter">
+                    <citation label="section"/>
+                </citation>
+            </citation>
+        </citationScheme>
+    </online>
+
+</CitationConfiguration>
