@@ -7,7 +7,7 @@ Usage: groovy parseBg.groovy FILE
 
 File f = new File(args[0])
 
-String baseUrn = "urn:cts:latinLit:stoa0069.stoa001:"
+String baseUrn = "urn:cts:latinLit:stoa0069.stoa001.hc:"
 
 def lines = f.readLines()
 
